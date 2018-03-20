@@ -23,6 +23,10 @@ and changes Matplotlib rcParams to match the current theme::
     from jltheme import jltheme
     jltheme()
 
+.. image:: https://raw.githubusercontent.com/cgcfad/jltheme/master/jltheme.png
+        :alt: jltheme
+        :width: 100%
+        :align: center
 
 Version history
 ---------------
