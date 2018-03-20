@@ -12,6 +12,7 @@ Installation
 ::
 
     pip install jltheme
+
 Usage
 -----
 
