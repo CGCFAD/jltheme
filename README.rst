@@ -22,8 +22,8 @@ and changes Matplotlib rcParams to match the current theme
 
 ::
 
-from jltheme import jltheme
-jltheme()
+    from jltheme import jltheme
+    jltheme()
 
 
 Version history
