@@ -18,9 +18,7 @@ Usage
 
 The module provides one function, ``jltheme``, which opens the
 JSON configuration file for JupyterLab, checks which theme is in use,
-and changes Matplotlib rcParams to match the current theme
-
-::
+and changes Matplotlib rcParams to match the current theme::
 
     from jltheme import jltheme
     jltheme()
