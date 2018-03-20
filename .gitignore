@@ -1,0 +1,8 @@
+build
+dist
+.tox
+*~
+*.pyc
+/jltheme.egg-info/
+venv
+test.ipynb
