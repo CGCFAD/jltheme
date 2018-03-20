@@ -7,7 +7,7 @@ console_scripts = ['jltheme = jltheme:_main']
 
 setup(
     name='jltheme',
-    version='0.1.0',
+    version='0.1.1',
     description='Change Matplotlib rcParams to match the current JupyterLab theme.',
     long_description=open("README.rst", "r", encoding="utf-8").read().replace("`_", "`"),
     author='CGCFAD',
