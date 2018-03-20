@@ -31,5 +31,6 @@ and changes Matplotlib rcParams to match the current theme::
 Version history
 ---------------
 
-- 0.1.1 Changes for PyPI (Current)
+- 0.1.2 Changes to README.rst (Current)
+- 0.1.1 Changes for PyPI
 - 0.1.0 Initial version
